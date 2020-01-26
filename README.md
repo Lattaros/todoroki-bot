@@ -62,5 +62,5 @@ If everything is right, the return should look something like this.
 
 <hr>
 
-If you want to help me spread the todoroki bot around the world, don't hesitate to add it to your server! Add it by clicking on the first image up there, or by clicking [HERE](https://discordapp.com/oauth2/authorize?client_id=666825074850136076&permissions=473316598&scope=bot).
+If you want to help me spread the todoroki bot around the world, don't hesitate to add it to your server! Add it by clicking on the first image up there, or by clicking [HERE](https://discordapp.com/api/oauth2/authorize?client_id=498930184838184962&permissions=8&scope=bot).
 <hr>
