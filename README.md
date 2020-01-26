@@ -13,7 +13,7 @@ If you are in the mood to use the source of my bot, feel free, I just ask you to
 
 # How do I install and use this source?
 
-    npm intall --save
+    npm install --save
     
 Use this command in the bot source, this will cause you to install all the dependencies of the bot, and thus working normally( *casually some WARNs appear in the terminal, but rest assured, that means you are installing; now if there are likely to be several ERRs in a row, there is something wrong*).
 <hr>
@@ -26,7 +26,7 @@ Use this command in the bot source, this will cause you to install all the depen
 Congratulations if you made it this far it means you learned how to install a Node.js dependency! Enough talk, let's go to the next step.
 
     node .
-)
+
 Using this command you will make it run the current folder, so it should always be at the root of the bot, so there are no errors.
 
 ![enter image description here](https://cdn.discordapp.com/attachments/669362719593332737/671095643023867954/unknown.png)
