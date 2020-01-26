@@ -1,7 +1,7 @@
 
 # Todoroki - Discord Bot
 
-**Todoroki** bot was inspired by the anime / manga Boku no Hero, or, My Hero Academy, promises a useful and concrete moderation system that is easy to use and handle; with several commands for fun, like hugging, kissing and etc; and also a great music system for you to enjoy, if you have any suggestions that are viable by the developers, don't hesitate to use the "t-suggestion" command, we would love to see what you are interested in a bot.
+**Todoroki** bot was inspired by the anime / manga Boku no Hero, or, My Hero Academy, promises a useful and concrete moderation system that is easy to use and handle; with several commands for fun, like hugging, kissing and etc; and also a great music system for you to enjoy, if you have any suggestions that are viable by the developers, don't hesitate to use the **t-suggestion** command, we would love to see what you are interested in a bot.
 
 <a href="https://discordapp.com/api/oauth2/authorize?client_id=498930184838184962&permissions=8&scope=bot" alt="Add to Server"><img src="https://cdn.discordapp.com/attachments/669362719593332737/671090980115709992/unknown.png"></a>
 
