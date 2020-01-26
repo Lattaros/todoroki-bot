@@ -15,6 +15,29 @@ If you are in the mood to use the source of my bot, feel free, I just ask you to
 
     npm intall --save
     
-Use this command in the bot source, this will cause you to install all the dependencies of the bot, and thus working normally*( casually some WARNs appear in the terminal, but rest assured, that means you are installing; now if there are likely to be several ERRs in a row, there is something wrong)*
+Use this command in the bot source, this will cause you to install all the dependencies of the bot, and thus working normally( *casually some WARNs appear in the terminal, but rest assured, that means you are installing; now if there are likely to be several ERRs in a row, there is something wrong*).
+<hr>
 
-Para adicionar em seu servidor, você pode clicar na imagem acima, ou [aqui](https://discordapp.com/oauth2/authorize?client_id=666825074850136076&permissions=473316598&scope=bot).
+**It must look like this.**
+
+![It must look like this.](https://cdn.discordapp.com/attachments/669362719593332737/671094087155449886/unknown.png)
+<hr>
+
+Congratulations if you made it this far it means you learned how to install a Node.js dependency! Enough talk, let's go to the next step.
+
+    node .
+)
+Using this command you will make it run the current folder, so it should always be at the root of the bot, so there are no errors.
+
+![enter image description here](https://cdn.discordapp.com/attachments/669362719593332737/671095643023867954/unknown.png)
+
+If everything is right, the return should look something like this.
+
+<hr>
+
+**Congratulations, you have a "great" base bot now, use some commands I have there and go ahead and create several other commands.**
+
+<hr>
+
+If you want to help me spread the todoroki bot around the world, don't hesitate to add it to your server! Add it by clicking on the first image up there, or by clicking [HERE](https://discordapp.com/oauth2/authorize?client_id=666825074850136076&permissions=473316598&scope=bot).
+<hr>
