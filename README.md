@@ -12,6 +12,10 @@ If you are in the mood to use the source of my bot, feel free, I just ask you to
 
 # How do I install and use this source?
 
+**It is very simple and easy, with a few steps I will teach you how to do it.**
+
+# How to download the repository?
+
 First the repository must be downloaded on your machine, for this use the command in your terminal:
 
     git clone https://github.com/Lattaros/todoroki-bot
@@ -25,9 +29,12 @@ If you don't have Git CLI installed on your computer, you can download it from t
 Click on where it is shown and on, **Download ZIP**, a download will start, you just have to extract and you are ready for the next step.
 <hr>
 
+# Configuring the folder
 Okay, now go to index.js, and where it says ("token"), change it to your bot's token, like this: ("123"). If you still don't have your bot's token, you can get it by clicking [HERE](https://discordapp.com/developers/applications).
 
 <hr>
+
+# Installing the dependencies and starting the bot.
 
     npm install --save
     
