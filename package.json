@@ -1,0 +1,22 @@
+{
+  "name": "Alpy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lattaro <jflguerreiro@bol.com.br>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^11.5.1",
+    "discord.js-lavalink": "^2.2.3",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^2.6.0",
+    "walk": "^2.3.14"
+  },
+  "repository": "https://github.com/darksouls4/Discord-Class-Bot"
+}
